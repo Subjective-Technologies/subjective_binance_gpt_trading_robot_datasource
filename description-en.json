@@ -1,4 +1,5 @@
 {
+  "description": "Placeholder datasource for GPT-assisted trading logic. Current implementation emits configuration/status payloads and is ready for custom strategy integration.",
   "domainCategory": "AI & Automation",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "GPT Trading Robot",
-      "text": "Subjective datasource implementation for SubjectiveGptTradingRobotDataSource.",
+      "text": "Placeholder datasource for GPT-assisted trading logic. Current implementation emits configuration/status payloads and is ready for custom strategy integration.",
       "image": {
         "src": "/subjective_binance_gpt_trading_robot_datasource/icon.svg",
         "alt": "GPT Trading Robot icon"
